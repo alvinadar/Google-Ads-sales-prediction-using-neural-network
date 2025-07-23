@@ -6,7 +6,7 @@ Data Source from : https://www.kaggle.com/datasets/nayakganesh007/google-ads-sal
 
 Step 1 : Import the library 
 
-Step 2 : Inport the data 
+Step 2 : Import the data 
 
 Step 3 : Data Preprocessing 
 
